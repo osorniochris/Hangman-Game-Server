@@ -261,26 +261,26 @@ public class Server {
         
         impossibleWords = new String [20];
 
-        impossibleWords [0] = "TE VOY A REGALAR UN LIBRO DE COCINA";
-        impossibleWords [1] = "NO CONOZCO A NADIE EN ESTE LUGAR";
-        impossibleWords [2] = "EN EL TRABAJO NUEVO ME PAGAN MEJOR QUE EN EL ANTERIOR";
-        impossibleWords [3] = "TENGO GRANDES PROYECTOS PARA ESTE AÑO";
-        impossibleWords [4] = "TE ESTUVE ESPERANDO DURANTE TODA LA TARDE";
-        impossibleWords [5] = "EL ACUSADO Y SU ABOGADA ABANDONARON LA SALA";
-        impossibleWords [6] = "LAS ACCIONES DE LA EMPRESA AUMENTARON ESTA SEMANA";
-        impossibleWords [7] = "ESTE MES COMIENZO LA FACULTAD";
-        impossibleWords [8] = "EL INTENDENTE FUE REELECTO AYER";
-        impossibleWords [9] = "ALEJANDRA NO QUISO PARTICIPAR";
-        impossibleWords [10] = "ANA TUVO SUERTE AYER";
-        impossibleWords [11] = "ANTONIA HIZO LAS COMPRAS HOY";
+        impossibleWords [0] = "CAMARON QUE SE DUERME SE LO LLEVA LA CORRIENTE";
+        impossibleWords [1] = "AGUA PASA POR MI CASA, CATE DE MI CORAZON";
+        impossibleWords [2] = "POR ANDAR VIENDO LA LUNA ME CAI EN LA LAGUNA";
+        impossibleWords [3] = "ANITA LAVA LA TINA";
+        impossibleWords [4] = "AL QUE MADRUGA DIOS LO AYUDA";
+        impossibleWords [5] = "DE TAL PALO TAL ASTILLA";
+        impossibleWords [6] = "QUIEN CON LOBOS SE JUNTA, A AULLAR SE ENSEÑA";
+        impossibleWords [7] = "HIERBA MALA NUNCA MUERE";
+        impossibleWords [8] = "EL QUE MUCHO ABARCA POCO APRIETA";
+        impossibleWords [9] = "AL MAL TIEMPO, BUENA CARA";
+        impossibleWords [10] = "AUNQUE LA MONA SE VISTA DE SEDA, MONA SE QUEDA";
+        impossibleWords [11] = "BARRIGA LLENA CORAZON CONTENTO";
         impossibleWords [12] = "CUIDADO CON EL PERRO";
-        impossibleWords [13] = "EL RESTAURANTE ESTABA LLENO";
-        impossibleWords [14] = "EZEQUIEL TIENE ENTRENAMIENTO EL SIGUIENTE VIERNES";
-        impossibleWords [15] = "KARINA DEBE TRABAJAR HOY";
-        impossibleWords [16] = "LA CALLE ESTABA MOJADA";
-        impossibleWords [17] = "LA CIUDAD SE ENCONTRABA EN LLAMAS";
-        impossibleWords [18] = "LA GENTE NO PERMITE EL DESCENSO DEL TRANSPORTE";
-        impossibleWords [19] = "LOS ANIMALES SON BASTANTE AGRESIVOS";
+        impossibleWords [13] = "LA CURIOSIDAD MATO AL GATO";
+        impossibleWords [14] = "DIME CON QUIEN ANDAS Y TE DIRE QUIEN ERES";
+        impossibleWords [15] = "EL QUE RIE AL ULTIMO RIE MEJOR";
+        impossibleWords [16] = "EL QUE PARTE Y REPARTE SE QUEDA CON LA MEJOR PARTE";
+        impossibleWords [17] = "MAS SABE EL DIABLO POR VIEJO QUE POR DIABLO";
+        impossibleWords [18] = "NO TODO LO QUE BRILLA ES ORO";
+        impossibleWords [19] = "OJOS QUE NO VEN, CORAZON QUE NO SIENTE";
     }
     
     
